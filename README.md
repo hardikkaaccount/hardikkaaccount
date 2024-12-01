@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently working on [Improving my problem solving skills](https://leetcode.com/u/hardikjain108/)
 
+- 🌱 I’m currently learning **Artifitial Inteligence & Machine Learning**
+
 - 📫 How to reach me **hardikhardikjain2004@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1wmRmPxevoa-5uqYuP3jV0Z2TGDJY01D5bcanCze65t4/edit?usp=sharing](https://docs.google.com/document/d/1wmRmPxevoa-5uqYuP3jV0Z2TGDJY01D5bcanCze65t4/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
